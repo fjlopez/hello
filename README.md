@@ -1,2 +1,2 @@
 # Hello
-[![Build Status](https://travis-ci.org/UNIZAR-30246-WebEngineering/hello.svg)](https://travis-ci.org/UNIZAR-30246-WebEngineering/hello)
+[![Build Status](https://travis-ci.org/fjlopez/hello.svg)](https://travis-ci.org/fjlopez/hello)
